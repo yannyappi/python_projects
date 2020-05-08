@@ -1,2 +1,2 @@
 # python_projects
-A few scripts I worked on
+A few projects I worked on. I am amazing by how much it is growing.
